@@ -256,25 +256,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <!-- Deployment -->
 
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-##### Deploy on Vercel
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/NETFLIX-Clone.git](https://github.com/SashenJayathilaka/NETFLIX-Clone.git)
-
-<hr />
-<br />
-
-<div align="center">Don't forget to leave a star ⭐️</div>
