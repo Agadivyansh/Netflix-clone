@@ -256,9 +256,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <!-- Deployment -->
 
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-##### Deploy on Vercel
-
